@@ -1,0 +1,452 @@
+/* 
+    Document   : style
+    Created on : 17-oct-2011, 14:25:49
+    Author     : remroyal
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+@font-face {
+    font-family: F25Executive;
+    src: url('../fonts/f25_executive/F25_Executive.otf');
+}
+
+body {
+    height: 100%;
+}
+
+div#dvWrapper {
+    width: 100%;
+    height: 100%;
+}
+
+#dvHeader {
+    width: 40px;
+    height: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background-color: #EEE;
+    background-image: url(../images/logo.png);
+    background-position: center bottom;
+    background-repeat: no-repeat;
+}
+
+#dvHeader span.spSup {
+    position: absolute;
+    top: 10px;
+}
+
+#dvHeader span.spSub {
+    position: absolute;
+    bottom: 10px;
+}
+
+div#dvContent {
+    margin-left: 40px;
+    margin-right: 40px;
+    height: 100%;
+    padding: 20px;
+}
+
+div#dvLoggedContent {
+    height: 100%;
+}
+
+div#dvLoggedContent form {
+    height: 100%;
+}
+
+#dvFooter {
+    width: 40px;
+    height: 100%;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    background-color: #EEE;
+}
+
+textarea#text {
+    width: 94%;
+    padding: 3%;
+    height: 90%;
+    border: 1px solid #F9F9F9;
+    border-radius: 8px;
+    font-size: 18px;
+    color: #333;
+}
+
+div#dayText {
+    clear: both;
+    width: 95%;
+    border: 1px solid #F9F9F9;
+    border-radius: 8px;
+    padding: 10px;
+    overflow: auto;
+}
+
+div#dayText div {
+    margin: 40px 200px;
+    background-image: url(../images/loading.gif);
+    background-position: left;
+    background-repeat: no-repeat;
+    padding-left: 24px;
+    color: #999999;
+}
+
+div#calendarFilterBox {
+    width: 40%;
+    float: left;
+}
+
+div#dvCalendarText {
+    width: 50%;
+    margin-left: 5%;
+    float: left;
+    line-height: 20px;
+    font-family: Helvetica, "Helvetica", sans-serif;
+}
+
+div#dvCalendarText b {
+    font-weight: bold;
+}
+
+div#dayCount {
+    color: #999999;
+    font-size: 0.8em;
+}
+
+span#spFeedback {
+    width: 100%;
+    display: block;
+    font-family: Verdana, Arial, sans-serif;
+    color: #999999;
+    font-size: 10px;
+    line-height: 24px;
+    margin-top: 20px;
+}
+
+span#wordcount {
+    display: block;
+    width: 33%;
+    float: left;
+}
+
+span#finish {
+    display: block;
+    width: 33%;
+    float: left;
+    text-align: center;
+}
+
+span#finish input[type=submit] {
+    border: 1px solid #DDD;
+    font-size: 10px;
+    padding: 3px 6px;
+    background-color: #FFF;
+    color: #999;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+span#finish input[type=submit]:hover {
+    background-color: #EEE;
+}
+
+span#saved {
+    display: block;
+    width: 33%;
+    float: left;
+    text-align: right;
+}
+
+.challenge-completed {
+    color: #FF0000;
+}
+
+.attenuated {
+    color: #DDD;
+}
+
+.typewritter {
+    font-family: F25Executive, "Courier New", "Courier", courier, serif;
+}
+
+.aFooterLogged, .aFooterHeader {
+    background-position: center;
+    background-repeat: no-repeat;
+    display: block;
+    width: 16px;
+    height: 16px;
+    text-indent: -9999px;
+    margin: 10px auto;
+}
+
+#dvFooter div {
+    
+}
+
+.aWrite {
+    background-image: url(../images/write.png);
+}
+
+.aDocument {
+    background-image: url(../images/documents.png);
+}
+
+.aExtract {
+    background-image: url(../images/extract3.png);
+}
+
+.aStats {
+    background-image: url(../images/graph.png);
+}
+
+.aExit {
+    background-image: url(../images/exit.png);
+}
+
+.aAbout {
+    margin: 0 auto;
+    margin-left: 10px;
+    background-image: url(../images/about.png);
+}
+
+.aHome {
+    margin: 0 auto;
+    margin-left: 10px;
+    background-image: url(../images/home.png);
+}
+
+div#dvWhatisthis {
+    width: 60%;
+    float: left;
+    font-family: F25Executive, "Courier New", "Courier", courier, serif;
+}
+
+div#dvWhatisthis h1 {
+    font-size: 2.2em;
+    font-weight: bold;
+    line-height: 2.5em;
+}
+
+div#dvWhatisthis h2 {
+    font-size: 1.5em;
+    font-weight: bold;
+    line-height: 2.2em;
+}
+
+div#dvWhatisthis b {
+    font-weight: bold;
+}
+
+div#dvWhatisthis p {
+    text-align: justify;
+}
+
+div#dvWelcomeLogin {
+    width: 30%;
+    margin-left: 5%;
+    float: left;
+}
+
+div#dvWelcomeLogin h1 {
+    font-size: 2.2em;
+    font-weight: bold;
+    line-height: 2.5em;
+    font-family: F25Executive, "Courier New", "Courier", courier, serif;
+}
+
+div#dvWhatisthis.dvAbout {
+    width: 100%;
+}
+
+div#dvWhatisthis.dvAbout a {
+    color: #888888;
+}
+
+div#dvExtract {
+    width: 40%;
+    float: left;
+}
+
+div#dvExtractInfo {
+    width: 50%;
+    margin-left: 5%;
+    margin-top: 20px;
+    float: left;
+    font-family: F25Executive, "Courier New", "Courier", courier, serif;
+}
+
+div#dvExtractInfo dt {
+    font-weight: bold;
+    line-height: 1.5em;
+}
+
+div#dvExtractInfo dd {
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+div#dvRegister {
+    width: 40%;
+    float: left;
+}
+
+div#dvLogin {
+    width: 40%;
+    margin-left: 10%;
+    float: left;
+}
+
+div.dvRegister h1 {
+    font-size: 2.2em;
+    font-weight: bold;
+    line-height: 2.5em;
+    font-family: F25Executive, "Courier New", "Courier", courier, serif;
+}
+
+div#dvRegister form a {
+    color: #999999;
+    float: right;
+    line-height: 30px;
+}
+
+div#dvRememberPass {
+    width: 40%;
+    float: left;
+}
+
+div#dvRememberPassInfo {
+    width: 40%;
+    margin-left: 10%;
+    float: left;
+    padding-top: 30px;
+    font-family: Helvetica, "Helvetica", sans-serif;
+    font-size: 1.2em;
+}
+
+div.dvMsg {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    background-color: lavender;
+    border-bottom: 2px solid #999999;
+    padding: 20px 0;
+    text-align: center;
+    z-index: 1;
+    font-family: Helvetica, "Helvetica", sans-serif;
+    font-size: 16px;
+    display: none;
+}
+
+div.dvError {
+    background-color: lightpink;
+}
+
+div.dvMsg a {
+    float: right;
+    margin-right: 30px;
+    /* This is for text, not icon:
+    border: 2px solid #999999;
+    padding: 6px;
+    */
+    text-decoration: none;
+    color: #999999;
+    font-size: 10px;
+    font-weight: bold;
+    /* Icon: */
+    background-image: url(../images/close.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    display: block;
+    width: 16px;
+    height: 16px;
+    text-indent: -9999px;
+}
+
+/* Forms */
+
+label {
+    display: block;
+    border: 1px solid #999999;
+    padding: 6px;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    margin-top: 10px;
+    font-family: Helvetica, "Helvetica", sans-serif;
+    font-size: 14px;
+}
+
+label span {
+    display: block;
+    width: 70px;
+    float: left;
+    line-height: 18px;
+}
+
+input[type=text], input[type=email], input[type=password] {
+    border: 0;
+    width: 210px;
+}
+
+div#dvWelcomeLogin input[type=submit],
+form#fExtract input[type=submit],
+div.dvRegister input[type=submit] {
+    border: 1px solid #999999;
+    padding: 6px 30px;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    font-family: Helvetica, "Helvetica", sans-serif;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+div#dvWelcomeLogin input[type=submit]:hover,
+form#fExtract input[type=submit]:hover,
+div.dvRegister input[type=submit]:hover  {
+    background-color: #CCC;
+}
+
+div.dvRegister input[type=text],
+div.dvRegister input[type=email],
+div.dvRegister input[type=password] {
+    width: 320px;
+}
+
+a.aRegister {
+    border: 1px solid #999999;
+    float: right;
+    padding: 8px 50px;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    font-family: Helvetica, "Helvetica", sans-serif;
+    font-size: 14px;
+    cursor: pointer;
+    text-decoration: none;
+    color: #000;
+}
+
+input[type=submit],
+input[type=button] {
+    outline: 0;
+}
+
+form#fExtract {
+    margin: 20px auto;
+    border: 1px solid #EEE;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    padding: 20px;
+}
+
+.aForgotPass {
+    float: left;
+    color: #999999;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+.aForgotPass:hover {
+    text-decoration: underline;
+}

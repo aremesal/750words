@@ -1,0 +1,12 @@
+RewriteEngine On
+# RewriteBase /
+
+#Options +FollowSymlinks
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+
+#Rewriterule ^(.*)$ /index.php?path=$1
+
+RewriteCond $1 !^(index\.php|images|robots\.txt)
+RewriteRule ^(.*)$ /index.php/$1 [L]
