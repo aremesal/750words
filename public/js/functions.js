@@ -142,7 +142,7 @@ function adjustSizes() {
     }
 
     if( $('textarea#text').length > 0 ) {
-        $('textarea#text').css('height', eval(docH-140) + 'px');
+        $('textarea#text').css('height', eval(docH-200) + 'px');
         /*
         $('textarea#text').autoResize({
             maxHeight: eval(docH-140)

@@ -47,7 +47,8 @@ class Write extends CI_Controller {
         
         if( encrypt_safedecode($this->input->post('uid')) == $this->userdata->_id) {
             $text = $this->textsmodel->saveTodayText($this->userdata->_id, $this->input->post('text'), str_word_count($this->input->post('text'))+1 );
-            $saved = strftime('%H:%M:%S', $text['saved_at']->sec + 7200);
+            //$saved = strftime('%H:%M:%S', $text['saved_at']->sec + 7200);
+            $saved = strftime('%H:%M:%S', $text['saved_at']->sec);
         }
         else {
             $saved = 'NULL';

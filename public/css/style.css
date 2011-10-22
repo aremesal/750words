@@ -169,7 +169,8 @@ span#saved {
 }
 
 .typewritter {
-    font-family: F25Executive, "Courier New", "Courier", courier, serif;
+    font-family: F25Executive, "Courier New", "Courier", courier, serif !important;
+    line-height: 1.2em !important;
 }
 
 .aFooterLogged, .aFooterHeader {
@@ -449,4 +450,11 @@ form#fExtract {
 
 .aForgotPass:hover {
     text-decoration: underline;
+}
+
+input[type=text],
+input[type=email],
+input[type=password],
+textarea {
+    background-color: transparent;
 }
