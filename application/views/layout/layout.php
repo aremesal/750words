@@ -10,6 +10,7 @@
         <script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
         <script type="text/javascript" src="/js/functions.js"></script>
         <script type="text/javascript" src="/js/jquery.wordcount.js"></script>
+        <!--script type="text/javascript" src="/js/jquery.fullscreen.js"></script> <!-- https://github.com/ruidlopes/jquery-fullscreen -->
         <script type="text/javascript" src="/js/jquery.autoresize.js"></script> <!-- https://github.com/jamespadolsey/jQuery.fn.autoResize -->
         <script type="text/javascript" src="/js/calendarPicker/jquery.calendarPicker.js"></script>
         <link rel="stylesheet" href="/js/calendarPicker/jquery.calendarPicker.css" type="text/css" media="all" />

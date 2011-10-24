@@ -6,13 +6,22 @@ $(document).ready(function(){
 
     adjustSizes();
     /*
+    $(window).bind("fullscreen-toggle", function(e, state) {
+        adjustSizes();
+    });
+    */
+    
     $(window).resize(function() {
+        
         clearTimeout(resizeTimer);
         resizeTimer = setTimeout(function(){
             adjustSizes();
+            adjustSizes();
         }, 100);
+        
     });
-    */
+    
+    
 
     $('#fTodayText').submit( function(ev){
         ev.preventDefault();
@@ -132,20 +141,27 @@ function getTextByDay(date) {
 
 function adjustSizes() {
     var docH = $(document).height();
+/*
+    clearTimeout(resizeTimer);
+    resizeTimer = setTimeout(function(){
+        docH = $(document).height();
+    }, 100);
+
+    alert(docH);*/
 
     if( $('#dayText').length > 0 ) {
         $('#dayText').css('height', eval(docH-200) + 'px');
     }
-
+    /*
     if( $('#dvFooter div').length > 0 ) {
         $('#dvFooter div').css('margin-top', eval(docH-130) + 'px');
     }
-
+    */
     if( $('textarea#text').length > 0 ) {
-        $('textarea#text').css('height', eval(docH-200) + 'px');
+        $('textarea#text').css('height', eval(docH-160) + 'px');
         /*
         $('textarea#text').autoResize({
-            maxHeight: eval(docH-140)
+            maxHeight: eval(docH-200)
         });
         */
     }

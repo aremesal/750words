@@ -12,7 +12,7 @@
             <input type="submit" value="Guardar ahora" />
         </span>
         
-        <span id="saved">Guardado (<span id="spSaved_at"> <?=strftime('%H:%M:%S', $saved_at->sec + 7200)?></span> )</span>
+        <span id="saved">Guardado (<span id="spSaved_at"> <?=strftime('%H:%M:%S', $saved_at->sec)?></span> )</span>
     </span>
 </form>
 
