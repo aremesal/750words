@@ -20,22 +20,14 @@ class Textsmodel extends CI_Model {
         $text = $this->mongo->db->texts->findOne($criteria);
 
         if( $text == NULL && $create_if_none ) {
-            $data = array(
-                'created_at'    => strftime('%Y-%m-%d', time()),
-                'saved_at'      => new MongoDate(time()),
-                'text'          => '',
-                'user_id'       => new MongoId($uid),
-                'count'         => 0,
-            );
-
-            $this->mongo->db->texts->insert($data);
+            $this->saveTodayText($uid, '', 0, TRUE);
             $text = $this->mongo->db->texts->findOne($criteria);
         }
 
         return $text;
     }
 
-    public function saveTodayText($uid, $text, $count = 0) {
+    public function saveTodayText($uid, $text, $count = 0, $upsert = FALSE) {
         $created_at = strftime('%Y-%m-%d',time());
 
         $data = array(
@@ -51,7 +43,7 @@ class Textsmodel extends CI_Model {
             'created_at'    => $created_at
         );
 
-        $this->mongo->db->texts->update($criteria, $data);
+        $this->mongo->db->texts->update($criteria, $data, $upsert);
 
         return $this->getTodayTextByUID($uid, $created_at);
     }
