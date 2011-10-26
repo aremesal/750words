@@ -735,3 +735,297 @@ DEBUG - 2011-10-26 23:13:22 --> Model Class Initialized
 DEBUG - 2011-10-26 23:13:22 --> Model Class Initialized
 DEBUG - 2011-10-26 23:13:22 --> Final output sent to browser
 DEBUG - 2011-10-26 23:13:22 --> Total execution time: 0.0220
+DEBUG - 2011-10-26 23:13:37 --> Config Class Initialized
+DEBUG - 2011-10-26 23:13:37 --> Hooks Class Initialized
+DEBUG - 2011-10-26 23:13:37 --> Utf8 Class Initialized
+DEBUG - 2011-10-26 23:13:37 --> UTF-8 Support Enabled
+DEBUG - 2011-10-26 23:13:37 --> URI Class Initialized
+DEBUG - 2011-10-26 23:13:37 --> Router Class Initialized
+DEBUG - 2011-10-26 23:13:37 --> Output Class Initialized
+DEBUG - 2011-10-26 23:13:37 --> Security Class Initialized
+DEBUG - 2011-10-26 23:13:37 --> Input Class Initialized
+DEBUG - 2011-10-26 23:13:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-10-26 23:13:37 --> Language Class Initialized
+DEBUG - 2011-10-26 23:13:37 --> Loader Class Initialized
+DEBUG - 2011-10-26 23:13:37 --> Config file loaded: ../application/config/mongo.php
+DEBUG - 2011-10-26 23:13:37 --> Config file loaded: ../application/config/email.php
+DEBUG - 2011-10-26 23:13:37 --> Helper loaded: url_helper
+DEBUG - 2011-10-26 23:13:37 --> Helper loaded: text_helper
+DEBUG - 2011-10-26 23:13:37 --> Session Class Initialized
+DEBUG - 2011-10-26 23:13:37 --> Helper loaded: string_helper
+DEBUG - 2011-10-26 23:13:37 --> Session routines successfully run
+DEBUG - 2011-10-26 23:13:37 --> Encrypt Class Initialized
+DEBUG - 2011-10-26 23:13:37 --> Controller Class Initialized
+DEBUG - 2011-10-26 23:13:37 --> Model Class Initialized
+DEBUG - 2011-10-26 23:13:37 --> Model Class Initialized
+DEBUG - 2011-10-26 23:13:37 --> Final output sent to browser
+DEBUG - 2011-10-26 23:13:37 --> Total execution time: 0.0216
+DEBUG - 2011-10-26 23:13:52 --> Config Class Initialized
+DEBUG - 2011-10-26 23:13:52 --> Hooks Class Initialized
+DEBUG - 2011-10-26 23:13:52 --> Utf8 Class Initialized
+DEBUG - 2011-10-26 23:13:52 --> UTF-8 Support Enabled
+DEBUG - 2011-10-26 23:13:52 --> URI Class Initialized
+DEBUG - 2011-10-26 23:13:52 --> Router Class Initialized
+DEBUG - 2011-10-26 23:13:52 --> Output Class Initialized
+DEBUG - 2011-10-26 23:13:52 --> Security Class Initialized
+DEBUG - 2011-10-26 23:13:52 --> Input Class Initialized
+DEBUG - 2011-10-26 23:13:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-10-26 23:13:52 --> Language Class Initialized
+DEBUG - 2011-10-26 23:13:52 --> Loader Class Initialized
+DEBUG - 2011-10-26 23:13:52 --> Config file loaded: ../application/config/mongo.php
+DEBUG - 2011-10-26 23:13:52 --> Config file loaded: ../application/config/email.php
+DEBUG - 2011-10-26 23:13:52 --> Helper loaded: url_helper
+DEBUG - 2011-10-26 23:13:52 --> Helper loaded: text_helper
+DEBUG - 2011-10-26 23:13:52 --> Session Class Initialized
+DEBUG - 2011-10-26 23:13:52 --> Helper loaded: string_helper
+DEBUG - 2011-10-26 23:13:52 --> Session routines successfully run
+DEBUG - 2011-10-26 23:13:52 --> Encrypt Class Initialized
+DEBUG - 2011-10-26 23:13:52 --> Controller Class Initialized
+DEBUG - 2011-10-26 23:13:52 --> Model Class Initialized
+DEBUG - 2011-10-26 23:13:52 --> Model Class Initialized
+DEBUG - 2011-10-26 23:13:52 --> Final output sent to browser
+DEBUG - 2011-10-26 23:13:52 --> Total execution time: 0.0233
+DEBUG - 2011-10-26 23:14:07 --> Config Class Initialized
+DEBUG - 2011-10-26 23:14:07 --> Hooks Class Initialized
+DEBUG - 2011-10-26 23:14:07 --> Utf8 Class Initialized
+DEBUG - 2011-10-26 23:14:07 --> UTF-8 Support Enabled
+DEBUG - 2011-10-26 23:14:07 --> URI Class Initialized
+DEBUG - 2011-10-26 23:14:07 --> Router Class Initialized
+DEBUG - 2011-10-26 23:14:07 --> Output Class Initialized
+DEBUG - 2011-10-26 23:14:07 --> Security Class Initialized
+DEBUG - 2011-10-26 23:14:07 --> Input Class Initialized
+DEBUG - 2011-10-26 23:14:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-10-26 23:14:07 --> Language Class Initialized
+DEBUG - 2011-10-26 23:14:07 --> Loader Class Initialized
+DEBUG - 2011-10-26 23:14:07 --> Config file loaded: ../application/config/mongo.php
+DEBUG - 2011-10-26 23:14:07 --> Config file loaded: ../application/config/email.php
+DEBUG - 2011-10-26 23:14:07 --> Helper loaded: url_helper
+DEBUG - 2011-10-26 23:14:07 --> Helper loaded: text_helper
+DEBUG - 2011-10-26 23:14:07 --> Session Class Initialized
+DEBUG - 2011-10-26 23:14:07 --> Helper loaded: string_helper
+DEBUG - 2011-10-26 23:14:07 --> Session routines successfully run
+DEBUG - 2011-10-26 23:14:07 --> Encrypt Class Initialized
+DEBUG - 2011-10-26 23:14:07 --> Controller Class Initialized
+DEBUG - 2011-10-26 23:14:07 --> Model Class Initialized
+DEBUG - 2011-10-26 23:14:07 --> Model Class Initialized
+DEBUG - 2011-10-26 23:14:07 --> Final output sent to browser
+DEBUG - 2011-10-26 23:14:07 --> Total execution time: 0.0232
+DEBUG - 2011-10-26 23:14:22 --> Config Class Initialized
+DEBUG - 2011-10-26 23:14:22 --> Hooks Class Initialized
+DEBUG - 2011-10-26 23:14:22 --> Utf8 Class Initialized
+DEBUG - 2011-10-26 23:14:22 --> UTF-8 Support Enabled
+DEBUG - 2011-10-26 23:14:22 --> URI Class Initialized
+DEBUG - 2011-10-26 23:14:22 --> Router Class Initialized
+DEBUG - 2011-10-26 23:14:22 --> Output Class Initialized
+DEBUG - 2011-10-26 23:14:22 --> Security Class Initialized
+DEBUG - 2011-10-26 23:14:22 --> Input Class Initialized
+DEBUG - 2011-10-26 23:14:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-10-26 23:14:22 --> Language Class Initialized
+DEBUG - 2011-10-26 23:14:22 --> Loader Class Initialized
+DEBUG - 2011-10-26 23:14:22 --> Config file loaded: ../application/config/mongo.php
+DEBUG - 2011-10-26 23:14:22 --> Config file loaded: ../application/config/email.php
+DEBUG - 2011-10-26 23:14:22 --> Helper loaded: url_helper
+DEBUG - 2011-10-26 23:14:22 --> Helper loaded: text_helper
+DEBUG - 2011-10-26 23:14:22 --> Session Class Initialized
+DEBUG - 2011-10-26 23:14:22 --> Helper loaded: string_helper
+DEBUG - 2011-10-26 23:14:22 --> Session routines successfully run
+DEBUG - 2011-10-26 23:14:22 --> Encrypt Class Initialized
+DEBUG - 2011-10-26 23:14:22 --> Controller Class Initialized
+DEBUG - 2011-10-26 23:14:22 --> Model Class Initialized
+DEBUG - 2011-10-26 23:14:22 --> Model Class Initialized
+DEBUG - 2011-10-26 23:14:22 --> Final output sent to browser
+DEBUG - 2011-10-26 23:14:22 --> Total execution time: 0.0129
+DEBUG - 2011-10-26 23:14:37 --> Config Class Initialized
+DEBUG - 2011-10-26 23:14:37 --> Hooks Class Initialized
+DEBUG - 2011-10-26 23:14:37 --> Utf8 Class Initialized
+DEBUG - 2011-10-26 23:14:37 --> UTF-8 Support Enabled
+DEBUG - 2011-10-26 23:14:37 --> URI Class Initialized
+DEBUG - 2011-10-26 23:14:37 --> Router Class Initialized
+DEBUG - 2011-10-26 23:14:37 --> Output Class Initialized
+DEBUG - 2011-10-26 23:14:37 --> Security Class Initialized
+DEBUG - 2011-10-26 23:14:37 --> Input Class Initialized
+DEBUG - 2011-10-26 23:14:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-10-26 23:14:37 --> Language Class Initialized
+DEBUG - 2011-10-26 23:14:37 --> Loader Class Initialized
+DEBUG - 2011-10-26 23:14:37 --> Config file loaded: ../application/config/mongo.php
+DEBUG - 2011-10-26 23:14:37 --> Config file loaded: ../application/config/email.php
+DEBUG - 2011-10-26 23:14:37 --> Helper loaded: url_helper
+DEBUG - 2011-10-26 23:14:37 --> Helper loaded: text_helper
+DEBUG - 2011-10-26 23:14:37 --> Session Class Initialized
+DEBUG - 2011-10-26 23:14:37 --> Helper loaded: string_helper
+DEBUG - 2011-10-26 23:14:37 --> Session routines successfully run
+DEBUG - 2011-10-26 23:14:37 --> Encrypt Class Initialized
+DEBUG - 2011-10-26 23:14:37 --> Controller Class Initialized
+DEBUG - 2011-10-26 23:14:37 --> Model Class Initialized
+DEBUG - 2011-10-26 23:14:37 --> Model Class Initialized
+DEBUG - 2011-10-26 23:14:52 --> Config Class Initialized
+DEBUG - 2011-10-26 23:14:52 --> Hooks Class Initialized
+DEBUG - 2011-10-26 23:14:52 --> Utf8 Class Initialized
+DEBUG - 2011-10-26 23:14:52 --> UTF-8 Support Enabled
+DEBUG - 2011-10-26 23:14:52 --> URI Class Initialized
+DEBUG - 2011-10-26 23:14:52 --> Router Class Initialized
+DEBUG - 2011-10-26 23:14:52 --> Output Class Initialized
+DEBUG - 2011-10-26 23:14:52 --> Security Class Initialized
+DEBUG - 2011-10-26 23:14:52 --> Input Class Initialized
+DEBUG - 2011-10-26 23:14:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-10-26 23:14:52 --> Language Class Initialized
+DEBUG - 2011-10-26 23:14:52 --> Loader Class Initialized
+DEBUG - 2011-10-26 23:14:52 --> Config file loaded: ../application/config/mongo.php
+DEBUG - 2011-10-26 23:14:52 --> Config file loaded: ../application/config/email.php
+DEBUG - 2011-10-26 23:14:52 --> Helper loaded: url_helper
+DEBUG - 2011-10-26 23:14:52 --> Helper loaded: text_helper
+DEBUG - 2011-10-26 23:14:52 --> Session Class Initialized
+DEBUG - 2011-10-26 23:14:52 --> Helper loaded: string_helper
+DEBUG - 2011-10-26 23:14:52 --> Session routines successfully run
+DEBUG - 2011-10-26 23:14:52 --> Encrypt Class Initialized
+DEBUG - 2011-10-26 23:14:52 --> Controller Class Initialized
+DEBUG - 2011-10-26 23:14:52 --> Model Class Initialized
+DEBUG - 2011-10-26 23:14:52 --> Model Class Initialized
+DEBUG - 2011-10-26 23:14:52 --> Final output sent to browser
+DEBUG - 2011-10-26 23:14:52 --> Total execution time: 0.0167
+DEBUG - 2011-10-26 23:15:07 --> Config Class Initialized
+DEBUG - 2011-10-26 23:15:07 --> Hooks Class Initialized
+DEBUG - 2011-10-26 23:15:07 --> Utf8 Class Initialized
+DEBUG - 2011-10-26 23:15:07 --> UTF-8 Support Enabled
+DEBUG - 2011-10-26 23:15:07 --> URI Class Initialized
+DEBUG - 2011-10-26 23:15:07 --> Router Class Initialized
+DEBUG - 2011-10-26 23:15:07 --> Output Class Initialized
+DEBUG - 2011-10-26 23:15:07 --> Security Class Initialized
+DEBUG - 2011-10-26 23:15:07 --> Input Class Initialized
+DEBUG - 2011-10-26 23:15:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-10-26 23:15:07 --> Language Class Initialized
+DEBUG - 2011-10-26 23:15:07 --> Loader Class Initialized
+DEBUG - 2011-10-26 23:15:07 --> Config file loaded: ../application/config/mongo.php
+DEBUG - 2011-10-26 23:15:07 --> Config file loaded: ../application/config/email.php
+DEBUG - 2011-10-26 23:15:07 --> Helper loaded: url_helper
+DEBUG - 2011-10-26 23:15:07 --> Helper loaded: text_helper
+DEBUG - 2011-10-26 23:15:07 --> Session Class Initialized
+DEBUG - 2011-10-26 23:15:07 --> Helper loaded: string_helper
+DEBUG - 2011-10-26 23:15:07 --> Session routines successfully run
+DEBUG - 2011-10-26 23:15:07 --> Encrypt Class Initialized
+DEBUG - 2011-10-26 23:15:07 --> Controller Class Initialized
+DEBUG - 2011-10-26 23:15:07 --> Model Class Initialized
+DEBUG - 2011-10-26 23:15:07 --> Model Class Initialized
+DEBUG - 2011-10-26 23:15:22 --> Config Class Initialized
+DEBUG - 2011-10-26 23:15:22 --> Hooks Class Initialized
+DEBUG - 2011-10-26 23:15:22 --> Utf8 Class Initialized
+DEBUG - 2011-10-26 23:15:22 --> UTF-8 Support Enabled
+DEBUG - 2011-10-26 23:15:22 --> URI Class Initialized
+DEBUG - 2011-10-26 23:15:22 --> Router Class Initialized
+DEBUG - 2011-10-26 23:15:22 --> Output Class Initialized
+DEBUG - 2011-10-26 23:15:22 --> Security Class Initialized
+DEBUG - 2011-10-26 23:15:22 --> Input Class Initialized
+DEBUG - 2011-10-26 23:15:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-10-26 23:15:22 --> Language Class Initialized
+DEBUG - 2011-10-26 23:15:22 --> Loader Class Initialized
+DEBUG - 2011-10-26 23:15:22 --> Config file loaded: ../application/config/mongo.php
+DEBUG - 2011-10-26 23:15:22 --> Config file loaded: ../application/config/email.php
+DEBUG - 2011-10-26 23:15:22 --> Helper loaded: url_helper
+DEBUG - 2011-10-26 23:15:22 --> Helper loaded: text_helper
+DEBUG - 2011-10-26 23:15:22 --> Session Class Initialized
+DEBUG - 2011-10-26 23:15:22 --> Helper loaded: string_helper
+DEBUG - 2011-10-26 23:15:22 --> Session routines successfully run
+DEBUG - 2011-10-26 23:15:22 --> Encrypt Class Initialized
+DEBUG - 2011-10-26 23:15:22 --> Controller Class Initialized
+DEBUG - 2011-10-26 23:15:22 --> Model Class Initialized
+DEBUG - 2011-10-26 23:15:22 --> Model Class Initialized
+DEBUG - 2011-10-26 23:15:37 --> Config Class Initialized
+DEBUG - 2011-10-26 23:15:37 --> Hooks Class Initialized
+DEBUG - 2011-10-26 23:15:37 --> Utf8 Class Initialized
+DEBUG - 2011-10-26 23:15:37 --> UTF-8 Support Enabled
+DEBUG - 2011-10-26 23:15:37 --> URI Class Initialized
+DEBUG - 2011-10-26 23:15:37 --> Router Class Initialized
+DEBUG - 2011-10-26 23:15:37 --> Output Class Initialized
+DEBUG - 2011-10-26 23:15:37 --> Security Class Initialized
+DEBUG - 2011-10-26 23:15:37 --> Input Class Initialized
+DEBUG - 2011-10-26 23:15:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-10-26 23:15:37 --> Language Class Initialized
+DEBUG - 2011-10-26 23:15:37 --> Loader Class Initialized
+DEBUG - 2011-10-26 23:15:37 --> Config file loaded: ../application/config/mongo.php
+DEBUG - 2011-10-26 23:15:37 --> Config file loaded: ../application/config/email.php
+DEBUG - 2011-10-26 23:15:37 --> Helper loaded: url_helper
+DEBUG - 2011-10-26 23:15:37 --> Helper loaded: text_helper
+DEBUG - 2011-10-26 23:15:37 --> Session Class Initialized
+DEBUG - 2011-10-26 23:15:37 --> Helper loaded: string_helper
+DEBUG - 2011-10-26 23:15:37 --> Session routines successfully run
+DEBUG - 2011-10-26 23:15:37 --> Encrypt Class Initialized
+DEBUG - 2011-10-26 23:15:37 --> Controller Class Initialized
+DEBUG - 2011-10-26 23:15:37 --> Model Class Initialized
+DEBUG - 2011-10-26 23:15:37 --> Model Class Initialized
+DEBUG - 2011-10-26 23:15:37 --> Final output sent to browser
+DEBUG - 2011-10-26 23:15:37 --> Total execution time: 0.0216
+DEBUG - 2011-10-26 23:15:52 --> Config Class Initialized
+DEBUG - 2011-10-26 23:15:52 --> Hooks Class Initialized
+DEBUG - 2011-10-26 23:15:52 --> Utf8 Class Initialized
+DEBUG - 2011-10-26 23:15:52 --> UTF-8 Support Enabled
+DEBUG - 2011-10-26 23:15:52 --> URI Class Initialized
+DEBUG - 2011-10-26 23:15:52 --> Router Class Initialized
+DEBUG - 2011-10-26 23:15:52 --> Output Class Initialized
+DEBUG - 2011-10-26 23:15:52 --> Security Class Initialized
+DEBUG - 2011-10-26 23:15:52 --> Input Class Initialized
+DEBUG - 2011-10-26 23:15:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-10-26 23:15:52 --> Language Class Initialized
+DEBUG - 2011-10-26 23:15:52 --> Loader Class Initialized
+DEBUG - 2011-10-26 23:15:52 --> Config file loaded: ../application/config/mongo.php
+DEBUG - 2011-10-26 23:15:52 --> Config file loaded: ../application/config/email.php
+DEBUG - 2011-10-26 23:15:52 --> Helper loaded: url_helper
+DEBUG - 2011-10-26 23:15:52 --> Helper loaded: text_helper
+DEBUG - 2011-10-26 23:15:52 --> Session Class Initialized
+DEBUG - 2011-10-26 23:15:52 --> Helper loaded: string_helper
+DEBUG - 2011-10-26 23:15:52 --> Session routines successfully run
+DEBUG - 2011-10-26 23:15:52 --> Encrypt Class Initialized
+DEBUG - 2011-10-26 23:15:52 --> Controller Class Initialized
+DEBUG - 2011-10-26 23:15:52 --> Model Class Initialized
+DEBUG - 2011-10-26 23:15:52 --> Model Class Initialized
+DEBUG - 2011-10-26 23:15:52 --> Final output sent to browser
+DEBUG - 2011-10-26 23:15:52 --> Total execution time: 0.0204
+DEBUG - 2011-10-26 23:16:07 --> Config Class Initialized
+DEBUG - 2011-10-26 23:16:07 --> Hooks Class Initialized
+DEBUG - 2011-10-26 23:16:07 --> Utf8 Class Initialized
+DEBUG - 2011-10-26 23:16:07 --> UTF-8 Support Enabled
+DEBUG - 2011-10-26 23:16:07 --> URI Class Initialized
+DEBUG - 2011-10-26 23:16:07 --> Router Class Initialized
+DEBUG - 2011-10-26 23:16:07 --> Output Class Initialized
+DEBUG - 2011-10-26 23:16:07 --> Security Class Initialized
+DEBUG - 2011-10-26 23:16:07 --> Input Class Initialized
+DEBUG - 2011-10-26 23:16:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-10-26 23:16:07 --> Language Class Initialized
+DEBUG - 2011-10-26 23:16:07 --> Loader Class Initialized
+DEBUG - 2011-10-26 23:16:07 --> Config file loaded: ../application/config/mongo.php
+DEBUG - 2011-10-26 23:16:07 --> Config file loaded: ../application/config/email.php
+DEBUG - 2011-10-26 23:16:07 --> Helper loaded: url_helper
+DEBUG - 2011-10-26 23:16:07 --> Helper loaded: text_helper
+DEBUG - 2011-10-26 23:16:07 --> Session Class Initialized
+DEBUG - 2011-10-26 23:16:07 --> Helper loaded: string_helper
+DEBUG - 2011-10-26 23:16:07 --> Session routines successfully run
+DEBUG - 2011-10-26 23:16:07 --> Encrypt Class Initialized
+DEBUG - 2011-10-26 23:16:07 --> Controller Class Initialized
+DEBUG - 2011-10-26 23:16:07 --> Model Class Initialized
+DEBUG - 2011-10-26 23:16:07 --> Model Class Initialized
+DEBUG - 2011-10-26 23:16:07 --> Final output sent to browser
+DEBUG - 2011-10-26 23:16:07 --> Total execution time: 0.0239
+DEBUG - 2011-10-26 23:16:22 --> Config Class Initialized
+DEBUG - 2011-10-26 23:16:22 --> Hooks Class Initialized
+DEBUG - 2011-10-26 23:16:22 --> Utf8 Class Initialized
+DEBUG - 2011-10-26 23:16:22 --> UTF-8 Support Enabled
+DEBUG - 2011-10-26 23:16:22 --> URI Class Initialized
+DEBUG - 2011-10-26 23:16:22 --> Router Class Initialized
+DEBUG - 2011-10-26 23:16:22 --> Output Class Initialized
+DEBUG - 2011-10-26 23:16:22 --> Security Class Initialized
+DEBUG - 2011-10-26 23:16:22 --> Input Class Initialized
+DEBUG - 2011-10-26 23:16:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-10-26 23:16:22 --> Language Class Initialized
+DEBUG - 2011-10-26 23:16:22 --> Loader Class Initialized
+DEBUG - 2011-10-26 23:16:22 --> Config file loaded: ../application/config/mongo.php
+DEBUG - 2011-10-26 23:16:22 --> Config file loaded: ../application/config/email.php
+DEBUG - 2011-10-26 23:16:22 --> Helper loaded: url_helper
+DEBUG - 2011-10-26 23:16:22 --> Helper loaded: text_helper
+DEBUG - 2011-10-26 23:16:22 --> Session Class Initialized
+DEBUG - 2011-10-26 23:16:22 --> Helper loaded: string_helper
+DEBUG - 2011-10-26 23:16:22 --> Session routines successfully run
+DEBUG - 2011-10-26 23:16:22 --> Encrypt Class Initialized
+DEBUG - 2011-10-26 23:16:22 --> Controller Class Initialized
+DEBUG - 2011-10-26 23:16:22 --> Model Class Initialized
+DEBUG - 2011-10-26 23:16:22 --> Model Class Initialized
+DEBUG - 2011-10-26 23:16:22 --> Final output sent to browser
+DEBUG - 2011-10-26 23:16:22 --> Total execution time: 0.0205

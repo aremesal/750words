@@ -20,7 +20,7 @@ class Textsmodel extends CI_Model {
         $text = $this->mongo->db->texts->findOne($criteria);
 
         if( $text == NULL && $create_if_none ) {
-            $this->saveTodayText($uid, '', 0, TRUE);
+            $this->saveTodayText($uid, '', 0, TRUE); 
             $text = $this->mongo->db->texts->findOne($criteria);
         }
 
