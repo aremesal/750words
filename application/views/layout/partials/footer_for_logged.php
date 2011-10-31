@@ -1,4 +1,4 @@
-<footer id="dvFooter">
+<footer id="dvFooter"> 
     <div>
         <a href="/write" class="aFooterLogged aWrite" title="Escribir">Escribir</a>
         <a href="/read" class="aFooterLogged aDocument" title="Escritos anteriores">Escritos</a>
