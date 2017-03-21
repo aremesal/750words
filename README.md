@@ -1,6 +1,6 @@
 # 750words
 
-This project is based on Julia Cameron's _Morning Pages_, as she proposed it in her The Artist's Way book. The project born as an exercise to learn about NoSQL databases  (MongoDB) while developing something simple and usefull. From I liked what I built, I wish to keep it open at [750palabras.alvaroremesal.com](http://750palabras.alvaroremesal.com) and keep the source code open for anyone who wants to learn about NoSQL from PHP.
+This project is based on Julia Cameron's _Morning Pages_, as she proposed it in her The Artist's Way book. The project born as an exercise to learn about NoSQL databases  (MongoDB) while developing something simple and useful. From I liked what I built, I wish to keep it open at [750palabras.alvaroremesal.com](http://750palabras.alvaroremesal.com) and keep the source code open for anyone who wants to learn about NoSQL from PHP.
 
 ## Framework
 
